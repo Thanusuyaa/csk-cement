@@ -1,0 +1,193 @@
+.body{
+    box-sizing: border-box;
+}
+.header{
+    width: 100%;
+    float: left;
+    background-color: yellow;
+    height: 30px;
+}
+.header-right{
+    width: 50%;
+    float: left;
+    margin-left: 160px;
+}
+.logo{
+    width: 15%;
+    height: 50px;
+    float: left;
+}
+.header-right{
+    width: 100%;
+    float: left;
+}
+.header-right li{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+}
+.header-right li a {
+    text-decoration: none;
+    color: black;
+    margin-left: 85px;
+    float: right;
+}
+.header-middle{
+    float: left;
+    width: 73%;
+    margin-left:160px;
+    position: absolute;
+}
+.pics{
+    width: 100%;
+    margin-top: 95px;
+}
+.main{
+    float: left;
+    width: 100%;
+}
+.main1{
+    width: 30%;
+    background-color: orangered;
+    height: 250px;
+    float: left;
+}
+.main1 h2{
+    color: whitesmoke;
+    font-size: 25px;
+    margin-left: 30px;
+    float:left;
+}
+.main1 p{
+    float: left;
+    margin-left: 30px;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.cta{
+    width: 30%;
+    float: left;
+    color: black;
+    margin-left: 30px;
+}
+.main2{
+    width: 30%;
+    background-color: grey;
+    height: 250px;
+    float: left;
+    margin-left: 30px;
+}
+.main2 h2{
+    color: whitesmoke;
+    font-size: 25px;
+    margin-left: 30px;
+    float: left;
+}
+.main2 p{
+    float: left;
+    margin-left: 30px;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.main3{
+    width: 33%;
+    background-color: green;
+    height: 250px;
+    float: right;
+    margin-left: 30px;
+}
+.main3 h2{
+    color: whitesmoke;
+    font-size: 25px;
+    margin-left: 30px;
+    float: left;
+}
+.main3 p{
+    float: left;
+    margin-left: 30px;
+    color: whitesmoke;
+    font-size: 15px;
+}
+.menu{
+    width: 100%;
+    float: left;
+}
+.menu1{
+    width: 50%;
+    float: left;
+}
+.menu1 h3{
+    color: black;
+    font-size: 25px;
+}
+.menu1 h5{
+    color: black;
+    font-size: 15px;
+}
+.menu1 p{
+    color: black;
+    font-size: 15px;
+}
+.cta1{
+    margin-right: 10px;
+    color: black;
+    background-color: whitesmoke;
+}
+.menu2{
+    float: right;
+    width: 50%;
+}
+.menu2 h3{
+    color: black;
+    font-size: 25px;
+    margin-left: 150px;
+    
+}
+.menu2 h6{
+    color: black;
+    font-size: 15px;
+    margin-left: 150px;
+    margin-top: -10px;
+    position: absolute;
+}
+.photo{
+    width: 70%;
+    margin-left: 150px;
+    margin-top: 30px;
+    height: 200px;  
+}
+.footer{
+    width: 100%;
+    float: left;
+    background-color: black;
+}
+.footer1{
+    width: 50%;
+    float: left;
+}
+.footer1 li{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+}
+.footer1 li a {
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 10px;
+    float: right;
+}
+.footer2{
+    width: 50%;
+    float: right;
+}
+.footer2 li{
+    display: inline-block;
+    list-style-type: none;
+    text-decoration: none;
+}
+.footer2 li a {
+    text-decoration: none;
+    color: whitesmoke;
+    margin-left: 180px;
+    float: right;
+}
